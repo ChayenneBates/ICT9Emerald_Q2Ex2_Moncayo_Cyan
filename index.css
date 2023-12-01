@@ -1,0 +1,43 @@
+body{
+	font-family: Arial, sans-serif;
+	text-align: left;
+	margin: 50px;
+}
+#MTF{
+	background-color: darkblue;
+	color: white;
+	padding: 30px;
+	width: ;
+	text-decoration: underline;
+	border: solid;
+	border-color: blue;
+	border-radius: 100px;
+	display: inline-block;
+}
+#object{
+	background-color: white;
+	color: black;
+	padding: 30px;
+	width: ;
+	text-decoration: underline;
+	border: solid;
+	border-color: grey;
+	border-radius: 100px;
+	display: inline-block;
+}
+#bird{
+	background-color: darkgreen;
+	color: white;
+	padding: 30px;
+	width: ;
+	text-decoration: underline;
+	border: solid;
+	border-color: green;
+	border-radius: 100px;
+	display: inline-block;
+}
+h1{
+	color: rgb(70, 75, 200, 1.0);
+	font-style: italic;
+	font-size: 70px;
+}
